@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "title": "平台经济中的劳动形态变迁",
+    "presenter": "李思远",
+    "institution": "某大学社会学系",
+    "date": "2026年10月"
+  },
+  "slides": [
+    {
+      "slide_type": "title",
+      "title": "平台经济中的劳动形态变迁",
+      "subtitle": "基于外卖骑手群体的田野调查",
+      "image_keywords": ["delivery rider city", "gig economy"]
+    },
+    {
+      "slide_type": "content",
+      "title": "目录",
+      "bullet_points": [
+        "一、研究问题与缘起",
+        "二、理论视角与分析框架",
+        "三、田野发现",
+        "四、讨论与结论"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "一、研究问题与缘起",
+      "subtitle": "当算法成为管理者",
+      "image_keywords": ["research question", "fieldwork"]
+    },
+    {
+      "slide_type": "content",
+      "title": "问题的提出",
+      "bullet_points": [
+        "平台经济重构了雇佣关系，但劳动过程并未消失",
+        "算法调度取代了传统科层制，管理权更加隐蔽",
+        "骑手群体规模庞大，但劳动权益保障明显滞后",
+        "核心问题：算法管理如何重塑劳动体验与主体性？"
+      ],
+      "quote_text": "技术从不中立，它总在替某些人做决定。",
+      "image_keywords": ["algorithm management", "smartphone delivery app"]
+    },
+    {
+      "slide_type": "section",
+      "title": "二、理论视角与分析框架",
+      "subtitle": "从劳动过程理论到算法管理",
+      "image_keywords": ["theory framework", "academic books"]
+    },
+    {
+      "slide_type": "content",
+      "title": "分析框架：三重维度",
+      "bullet_points": [
+        "控制维度：算法如何规训时间与空间",
+        "同意维度：劳动者为何自愿接入高强度工作",
+        "反抗维度：个体化策略与集体行动的张力",
+        "三个维度共同构成本文的分析路径"
+      ],
+      "image_keywords": ["analytical framework", "diagram"]
+    },
+    {
+      "slide_type": "section",
+      "title": "三、田野发现",
+      "subtitle": "三个城市的十四个月",
+      "image_keywords": ["urban field research", "city street"]
+    },
+    {
+      "slide_type": "data",
+      "title": "骑手日均劳动时长分布",
+      "bullet_points": [
+        "近半数骑手日均工作超过十小时",
+        "高强度集中在午晚两个高峰时段",
+        "休息时间被算法切割成碎片"
+      ],
+      "table_data": {
+        "headers": ["时长区间", "占比"],
+        "rows": [
+          ["8 小时以内", "18"],
+          ["8–10 小时", "32"],
+          ["10–12 小时", "34"],
+          ["12 小时以上", "16"]
+        ]
+      },
+      "chart_type": "pie",
+      "image_keywords": ["working hours statistics", "clock time"]
+    },
+    {
+      "slide_type": "content",
+      "title": "算法管理的日常实践",
+      "bullet_points": [
+        "派单逻辑不透明，骑手只能凭经验推断规则",
+        "超时惩罚与评分机制形成持续压力",
+        "劳动者自发形成绕开系统的经验策略",
+        "技术能力的不对称加剧了议价劣势"
+      ],
+      "code_block": "# 骑手口述的派单优先级推测（简化）\nif 骑手等级 == '王者':\n    优先派远距离高单价订单\nelif 准时率 > 0.98:\n    优先派写字楼集中订单\nelse:\n    剩余订单随机分配",
+      "image_keywords": ["delivery app interface", "algorithm dispatch"]
+    },
+    {
+      "slide_type": "content",
+      "title": "同意何以可能",
+      "bullet_points": [
+        "名义上的弹性工作时间，实际受高峰约束",
+        "计件工资制把风险转移给劳动者",
+        "群体内部的相互竞争消解了集体诉求",
+        "骑手把辛苦重新诠释为暂时性与过渡性"
+      ],
+      "quote_text": "我不是在给平台打工，我是在给自己挣钱。\n——受访骑手 A",
+      "image_keywords": ["worker portrait", "street portrait"]
+    },
+    {
+      "slide_type": "section",
+      "title": "四、讨论与结论",
+      "subtitle": "劳动形态变迁的制度意涵",
+      "image_keywords": ["discussion conclusion", "policy meeting"]
+    },
+    {
+      "slide_type": "content",
+      "title": "理论讨论",
+      "bullet_points": [
+        "算法管理是泰勒制在数字时代的延伸与变形",
+        "同意的生产机制比强制本身更值得关注",
+        "劳动主体性在缝隙中生成，但难以组织化"
+      ],
+      "image_keywords": ["theory discussion", "academic seminar"]
+    },
+    {
+      "slide_type": "content",
+      "title": "结论与政策启示",
+      "bullet_points": [
+        "平台劳动的核心矛盾是控制与弹性的并存",
+        "算法透明度应成为监管的切入点",
+        "职业伤害保障需要跳出传统劳动关系框架",
+        "研究局限：样本偏东部城市，季节性波动未充分控制"
+      ],
+      "image_keywords": ["policy recommendation", "government building"]
+    },
+    {
+      "slide_type": "reference",
+      "title": "参考文献",
+      "bullet_points": [
+        "[1] 孙萍. 过渡劳动：平台经济下的劳动形态[J]. 社会学研究, 2020.",
+        "[2] 陈龙. 数字控制下的劳动秩序[J]. 社会学研究, 2020.",
+        "[3] Burawoy, M. Manufacturing Consent[M]. University of Chicago Press, 1979.",
+        "[4] Rosenblat, A. Uberland[M]. University of California Press, 2018.",
+        "[5] Kellogg, K. et al. Algorithms at Work[J]. Academy of Management Annals, 2020."
+      ]
+    },
+    {
+      "slide_type": "thank",
+      "title": "感谢聆听",
+      "subtitle": "欢迎批评指正"
+    }
+  ]
+}

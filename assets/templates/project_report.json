@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "title": "（填课题名称）中期研究汇报",
+    "presenter": "（填负责人）",
+    "institution": "（填单位）",
+    "date": "（填汇报日期）",
+    "template": "project_report",
+    "note": "课题汇报模板。适合开题、中期检查与结题汇报。重点改 progress 相关页的数据表。推荐 18-25 页。"
+  },
+  "slides": [
+    {
+      "slide_type": "title",
+      "title": "（填课题名称）",
+      "subtitle": "（开题 / 中期 / 结题）汇报"
+    },
+    {
+      "slide_type": "content",
+      "title": "汇报提纲",
+      "bullet_points": [
+        "一、课题概况",
+        "二、研究进展",
+        "三、阶段性成果",
+        "四、问题与调整",
+        "五、下一步计划"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "一、课题概况",
+      "subtitle": "立项信息与研究定位"
+    },
+    {
+      "slide_type": "content",
+      "title": "课题基本信息",
+      "bullet_points": [
+        "（课题来源与项目类别）",
+        "（研究周期：起止时间）",
+        "（课题负责人与主要成员）",
+        "（经费与条件保障情况）"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "研究目标与内容",
+      "bullet_points": [
+        "（总体目标）",
+        "（研究内容一）",
+        "（研究内容二）",
+        "（研究内容三）"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "二、研究进展",
+      "subtitle": "按计划推进情况"
+    },
+    {
+      "slide_type": "content",
+      "title": "已完成工作",
+      "bullet_points": [
+        "（文献梳理与理论框架搭建）",
+        "（数据采集与样本情况）",
+        "（调研 / 实验 / 访谈执行情况）",
+        "（阶段性分析结果）"
+      ],
+      "image_keywords": ["research progress", "team collaboration"]
+    },
+    {
+      "slide_type": "data",
+      "title": "任务进度对照",
+      "bullet_points": [
+        "各子课题按计划推进，整体完成度符合预期",
+        "（进度超前或滞后的具体子任务）",
+        "（影响进度的关键因素）"
+      ],
+      "table_data": {
+        "headers": ["子课题", "计划进度", "实际进度"],
+        "rows": [
+          ["（子课题一）", "（百分比）", "（百分比）"],
+          ["（子课题二）", "（百分比）", "（百分比）"],
+          ["（子课题三）", "（百分比）", "（百分比）"]
+        ]
+      },
+      "chart_type": "bar"
+    },
+    {
+      "slide_type": "content",
+      "title": "关键发现",
+      "bullet_points": [
+        "（发现一：与预期一致的部分）",
+        "（发现二：超出预期的部分）",
+        "（发现三：与假设不符，需要重新解释的部分）"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "三、阶段性成果",
+      "subtitle": "论文、报告与政策影响"
+    },
+    {
+      "slide_type": "content",
+      "title": "学术成果",
+      "bullet_points": [
+        "（已发表论文：期刊、年份）",
+        "（已录用论文：期刊、预计刊期）",
+        "（工作论文或在审稿件）",
+        "（参加学术会议情况）"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "应用与政策成果",
+      "bullet_points": [
+        "（研究报告被采纳情况）",
+        "（政策建议报送情况）",
+        "（与实务部门合作情况）",
+        "（社会服务或科普活动）"
+      ],
+      "quote_text": "（可选：评审专家或实务部门的反馈原文）"
+    },
+    {
+      "slide_type": "section",
+      "title": "四、问题与调整",
+      "subtitle": "遇到的困难与应对"
+    },
+    {
+      "slide_type": "content",
+      "title": "主要问题",
+      "bullet_points": [
+        "（问题一：如数据获取受限）",
+        "（问题二：如方法适用性）",
+        "（问题三：如进度风险）",
+        "（问题的影响评估）"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "应对措施与方案调整",
+      "bullet_points": [
+        "（针对问题一的解决思路）",
+        "（针对问题二的替代方案）",
+        "（研究内容或技术路线的调整）",
+        "（调整后对总体目标的影响）"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "五、下一步计划",
+      "subtitle": "剩余周期安排"
+    },
+    {
+      "slide_type": "content",
+      "title": "后续研究安排",
+      "bullet_points": [
+        "（下一阶段重点工作一）",
+        "（下一阶段重点工作二）",
+        "（下一阶段重点工作三）",
+        "（预期形成的最终成果）"
+      ]
+    },
+    {
+      "slide_type": "reference",
+      "title": "主要参考文献",
+      "bullet_points": [
+        "[1] （作者. 文献题目[M/J]. 期刊或出版社, 年份.）",
+        "[2] （作者. 文献题目[M/J]. 期刊或出版社, 年份.）",
+        "[3] （作者. 文献题目[M/J]. 期刊或出版社, 年份.）",
+        "[4] （作者. 文献题目[M/J]. 期刊或出版社, 年份.）"
+      ]
+    },
+    {
+      "slide_type": "thank",
+      "title": "感谢聆听",
+      "subtitle": "请各位专家批评指正"
+    }
+  ]
+}

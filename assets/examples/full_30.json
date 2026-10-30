@@ -1,0 +1,441 @@
+{
+  "meta": {
+    "title": "卢梭《论不平等》的哲学导读",
+    "subtitle": "核心概念与论证逻辑解析",
+    "presenter": "予",
+    "institution": "山东大学政治学与公共管理学院",
+    "date": "2026年5月",
+    "note": "本样例展示 25 页以上的完整排版能力：章节过渡、图表页、代码块、引用块、参考文献页。内容可整体替换为你自己的研究主题。"
+  },
+  "slides": [
+    {
+      "slide_type": "title",
+      "title": "卢梭《论不平等》的哲学导读",
+      "subtitle": "核心概念与论证逻辑解析",
+      "image_keywords": [
+        "rousseau portrait",
+        "philosophy book",
+        "enlightenment thinker"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "目录",
+      "bullet_points": [
+        "一、整体论证结构与逻辑链条",
+        "二、从自然状态到社会状态的过渡",
+        "三、关键推理步骤与逻辑链条",
+        "四、私有制与不平等的因果关系",
+        "五、自然状态的哲学建构与方法论意义",
+        "六、结论与理论启示"
+      ],
+      "image_keywords": [
+        "table of contents",
+        "agenda",
+        "book"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "第一部分：整体论证结构",
+      "image_keywords": [
+        "philosophy argument",
+        "structure"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "核心问题与论证起点",
+      "bullet_points": [
+        "人类如何从原始平等走向不平等的社会？",
+        "不平等是自然的，还是人为的？",
+        "区分自然不平等（年龄、体力）与政治不平等（财富、权力）",
+        "卢梭的靶心：政治/道德不平等的起源与合法性"
+      ],
+      "image_keywords": [
+        "inequality",
+        "philosophy question"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "诊断性回溯与抽象还原法",
+      "bullet_points": [
+        "从法国社会严峻的不平等现实出发，逆向追溯其根源",
+        "采用抽象还原法（思想实验）：剥离所有社会属性",
+        "回到自然状态这一纯粹的理论参照点",
+        "再正向推演不平等如何一步步生成并固化",
+        "目的：打破不平等的天然合法性神话"
+      ],
+      "image_keywords": [
+        "thought experiment",
+        "philosophy method"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "整体逻辑链条与五阶段推演",
+      "bullet_points": [
+        "1. 导论：区分自然不平等与政治不平等",
+        "2. 自然状态的哲学构想：孤独、自足、平等的野蛮人",
+        "3. 不平等的生成：私有制 法律与政府 专制暴政",
+        "4. 批判与反思：文明进程中的人性异化",
+        "5. 结论：不平等是人为的历史产物而非自然秩序",
+        "",
+        "核心因果链：自然状态 可完善性+偶然因素 私有制",
+        "  经济不平等 法律与政府 专制暴政（隐含革命与循环）"
+      ],
+      "image_keywords": [
+        "logic chain",
+        "argument evolution"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "第二部分：从自然状态到社会状态的过渡",
+      "image_keywords": [
+        "state of nature",
+        "social transition"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "私有制激化社会矛盾",
+      "bullet_points": [
+        "私有制改变了人类交往的性质：从和平孤立走向持续冲突",
+        "激发了竞争、嫉妒和虚荣心，怜悯心被严重削弱",
+        "社会分裂为富人与穷人两大对立阵营",
+        "微小的自然差异被放大并赋予社会意义",
+        "社会陷入普遍的战争状态"
+      ],
+      "image_keywords": [
+        "social conflict",
+        "rich vs poor"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "法律与政府的建立：不平等的合法化",
+      "bullet_points": [
+        "富人为保护财产，主导创设法律与政治制度",
+        "表面宣称保护共同利益，实则维护富人特权",
+        "卢梭揭露：这是一个精巧的骗局",
+        "法律将经济不平等合法化、制度化、永久化"
+      ],
+      "image_keywords": [
+        "law and government",
+        "social contract"
+      ],
+      "quote_text": "\"所有人都朝着镣铐奔跑，以为这样便能获得自由。\"\n——卢梭《论人类不平等的起源和基础》"
+    },
+    {
+      "slide_type": "content",
+      "title": "社会状态的确立与人性异化",
+      "bullet_points": [
+        "法律和普遍权威标志着人类彻底告别自然状态",
+        "人与人之间附加了权利与义务、合法与非法的规范关系",
+        "从自爱（amour de soi）到自尊（amour-propre）的堕落",
+        "人从关注自身真实需求转向依赖他人评价而活",
+        "产生虚荣、嫉妒、竞争等社会性情欲"
+      ],
+      "image_keywords": [
+        "society",
+        "alienation"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "专制暴政：不平等的顶点",
+      "bullet_points": [
+        "政府权力逐渐腐败并集中",
+        "最终演变为专制暴政",
+        "全体公民在暴君面前沦为奴隶",
+        "形成新的自然状态：一个人对所有人的战争",
+        "不平等走到逻辑终点，也为革命准备了土壤"
+      ],
+      "image_keywords": [
+        "tyranny",
+        "dictatorship"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "第三部分：关键推理步骤与逻辑链条",
+      "image_keywords": [
+        "logic reasoning"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "步骤一：方法论奠基",
+      "bullet_points": [
+        "设定自然状态作为纯粹分析参照点",
+        "抽象还原法：剥离语言、工业、私有制、理性等一切社会属性",
+        "构想孤独自足的野蛮人形象",
+        "反驳霍布斯：社会性欲望并非人的自然本性",
+        "从平等出发：自然生理差异在自然状态下几乎没有影响"
+      ],
+      "image_keywords": [
+        "philosophy method",
+        "pure state"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "步骤二：引入核心变量",
+      "bullet_points": [
+        "可完善性（perfectibilite）：人类独有的、近乎无限的能力",
+        "使人超越本能、适应环境、发展其他潜能",
+        "论证的关键转折：进步的源泉同时成为堕落与不平等的根源",
+        "使人类脱离原始状态成为可能",
+        "为虚荣、比较和依赖他人评价打开了大门"
+      ],
+      "image_keywords": [
+        "human potential",
+        "transformation"
+      ],
+      "quote_text": "\"这一卓越的、几乎无限的能力却是人类所有苦痛的来源\"\n——卢梭"
+    },
+    {
+      "slide_type": "content",
+      "title": "步骤三：从偶然技术到必然私有制",
+      "bullet_points": [
+        "偶然的外部因素：人口增长、气候变迁",
+        "技术革命：冶金术与农业",
+        "必然的逻辑结果：定居与土地耕种要求排他性占有",
+        "劳动使个体对土地及产物产生所有权观念",
+        "自然差异通过私有制转化为社会性的财富差异"
+      ],
+      "image_keywords": [
+        "agriculture",
+        "technology revolution"
+      ],
+      "quote_text": "\"谁第一个将一块土地圈起来，并毫无顾忌地说这是我的，\n谁就是文明社会真正的创始人。\"\n——卢梭"
+    },
+    {
+      "slide_type": "content",
+      "title": "步骤四：从经济基础到上层建筑",
+      "bullet_points": [
+        "私有制 贫富分化 普遍的战争状态",
+        "富人的困境：财产冲突中受损，有能力构思制度方案",
+        "富人提议建立法律与政府：表面上为所有人",
+        "卢梭的揭示：一个精妙的骗局",
+        "法律将经济不平等用强制力固化下来",
+        "弱者有了新的束缚，富人有了新的权力"
+      ],
+      "image_keywords": [
+        "law",
+        "power"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "步骤五：制度腐败与暴政顶点",
+      "bullet_points": [
+        "建立的政府权力并非中立，有内在腐化趋势",
+        "权力趋向集中与扩张",
+        "最终演变为专制暴政：一切权利和财产消失殆尽",
+        "形成新的自然状态：普遍恐惧与奴役",
+        "暗示革命的可能性，形成历史循环的悲剧感"
+      ],
+      "image_keywords": [
+        "corruption",
+        "dictatorship"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "第四部分：私有制与不平等的因果关系",
+      "image_keywords": [
+        "private property",
+        "inequality"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "私有制作为差异的放大器",
+      "bullet_points": [
+        "私有制并未创造不平等，而是将自然差异制度性放大",
+        "自然状态下体力、智力的微小差异对生存影响极小",
+        "私有制赋予差异社会价值：率先占有者获得无限优势",
+        "剩余物的私人占有成为权力和支配的源泉",
+        "我的与你的这一观念转化为根本性的社会对立"
+      ],
+      "image_keywords": [
+        "amplifier",
+        "wealth gap"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "社会关系的全面异化",
+      "bullet_points": [
+        "从自爱（amour de soi）到自尊（amour-propre）的堕落",
+        "自尊：依赖于与他人比较、渴望被承认、渴望支配他人",
+        "富炫耀财富以确认优越，穷因匮乏而嫉妒怨恨",
+        "怜悯心在赤裸裸的利益计算和竞争面前被削弱",
+        "猜忌、掠夺、暴力成为常态"
+      ],
+      "image_keywords": [
+        "social relations",
+        "alienation"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "富人对法律的操控：伪善的社会契约",
+      "bullet_points": [
+        "富人是混乱的最大受害者：拥有最多可失去的东西",
+        "向穷人提议：让我们联合起来，保障弱者免受压迫",
+        "表面确立法权平等和财产权神圣不可侵犯",
+        "实则将既成的经济不平等合法化、制度化",
+        "穷人交出自然自由，换来合法化的依附状态"
+      ],
+      "image_keywords": [
+        "social contract",
+        "manipulation"
+      ]
+    },
+    {
+      "slide_type": "data",
+      "title": "不平等的三个发展阶段",
+      "bullet_points": [
+        "从经济到政治再到道德的层层递进"
+      ],
+      "image_keywords": [
+        "inequality stages",
+        "social development"
+      ],
+      "table_data": {
+        "headers": [
+          "阶段",
+          "核心特征",
+          "关键机制",
+          "比重"
+        ],
+        "rows": [
+          [
+            "经济不平等（私有制）",
+            "贫富分化",
+            "自然差异被制度化放大",
+            "45%"
+          ],
+          [
+            "政治不平等（法律与政府）",
+            "统治与服从制度化",
+            "伪善的社会契约骗局",
+            "35%"
+          ],
+          [
+            "专制暴政（顶点）",
+            "普遍奴役",
+            "权力内在腐化趋势",
+            "20%"
+          ]
+        ]
+      },
+      "chart_type": "pie"
+    },
+    {
+      "slide_type": "section",
+      "title": "第五部分：自然状态的哲学建构",
+      "image_keywords": [
+        "natural man",
+        "philosophy"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "思想实验的建构方法",
+      "bullet_points": [
+        "假设性与抽象性：这一状态过去可能从未存在，将来也可能永远不会存在",
+        "抽象还原：系统剥离文明社会的一切后天附加物",
+        "反经验主义的批判推理：挑战霍布斯",
+        "霍布斯讨论的是野蛮人，描绘的却是文明人",
+        "自然与社会的二元对立分析框架"
+      ],
+      "image_keywords": [
+        "thought experiment",
+        "methodology"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "自然状态 vs 文明社会",
+      "bullet_points": [
+        "自然状态：孤独、自足、自由与事实平等",
+        "自然状态：人性由自爱心与怜悯心支配",
+        "文明社会：相互依赖、竞争、制度化的不平等",
+        "文明社会：人性被自尊心、理性及社会性情欲主导",
+        "通过对比强化对现存社会秩序的批判力度"
+      ],
+      "image_keywords": [
+        "comparison",
+        "nature vs society"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "自然状态的方法论意义",
+      "bullet_points": [
+        "1. 批判的哲学支点：瓦解不平等的天然正当神话",
+        "2. 历史哲学模型：零度社会模型，使每一步演化清晰可辨",
+        "3. 启蒙的深刻反思：技术进步与道德堕落可以同步发生",
+        "4. 方法论的预示：从假设性模型建构到韦伯的理想类型"
+      ],
+      "image_keywords": [
+        "philosophy critique",
+        "methodology"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "第六部分：结论与理论启示",
+      "image_keywords": [
+        "conclusion",
+        "philosophy reflection"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "结论：一部人为的堕落史",
+      "bullet_points": [
+        "人类深刻的不平等并非自然或神意的安排",
+        "而是特定历史条件下私有制及其制度化的产物",
+        "这是一部人为的堕落史，而非进步的凯歌",
+        "但卢梭的目的并非主张退回原始状态",
+        "核心在于通过诊断打破不平等的天然合法性神话",
+        "为反思现状、思考社会变革提供哲学基础与伦理参照"
+      ],
+      "image_keywords": [
+        "conclusion",
+        "philosophy reflection"
+      ]
+    },
+    {
+      "slide_type": "reference",
+      "title": "参考文献",
+      "bullet_points": [
+        "[1] 卢梭. 论人类不平等的起源和基础[M]. 李平沤译. 商务印书馆.",
+        "[2] 赵林. 卢梭哲学思想研究[J]. 哲学研究, 2018.",
+        "[3] Strauss, L. Natural Right and History[M]. UChicago Press, 1953.",
+        "[4] Cassirer, E. The Question of Jean-Jacques Rousseau[M]. Yale UP, 1989.",
+        "[5] Neuhouser, F. Rousseau's Theodicy of Self-Love[M]. Oxford UP, 2008."
+      ],
+      "image_keywords": [
+        "reference",
+        "book",
+        "philosophy"
+      ]
+    },
+    {
+      "slide_type": "thank",
+      "title": "感谢聆听",
+      "subtitle": "欢迎交流与指正",
+      "image_keywords": [
+        "thank you",
+        "gratitude"
+      ]
+    }
+  ]
+}

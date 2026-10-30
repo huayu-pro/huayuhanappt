@@ -1,0 +1,120 @@
+{
+  "meta": {
+    "title": "（填汇报主题）",
+    "presenter": "（填姓名）",
+    "institution": "（填单位）",
+    "date": "（填日期）",
+    "template": "generic",
+    "note": "通用学术模板。任何主题都能套：按你的内容增减 content 页即可，章节页（section）可整段复制或删除。推荐 10-30 页。"
+  },
+  "slides": [
+    {
+      "slide_type": "title",
+      "title": "（填汇报主题）",
+      "subtitle": "（填副标题）"
+    },
+    {
+      "slide_type": "content",
+      "title": "目录",
+      "bullet_points": [
+        "一、（第一部分标题）",
+        "二、（第二部分标题）",
+        "三、（第三部分标题）",
+        "四、（第四部分标题）"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "一、（第一部分标题）",
+      "subtitle": "（一句话点题）"
+    },
+    {
+      "slide_type": "content",
+      "title": "（本页标题：一个明确的观点，不要写「内容介绍」）",
+      "bullet_points": [
+        "（要点一：先说结论，再展开）",
+        "（要点二：每条控制在 30 字以内）",
+        "（要点三：数据或证据放在这里）",
+        "（要点四：不超过 8 条，多了就拆页）"
+      ],
+      "image_keywords": ["（配图关键词，英文更准）"]
+    },
+    {
+      "slide_type": "content",
+      "title": "（需要数据支撑的一页）",
+      "bullet_points": [
+        "（图表要说明的核心事实）",
+        "（第二个事实）"
+      ],
+      "table_data": {
+        "headers": ["项目", "数值"],
+        "rows": [
+          ["（项目一）", "（数值）"],
+          ["（项目二）", "（数值）"],
+          ["（项目三）", "（数值）"]
+        ]
+      },
+      "chart_type": "bar"
+    },
+    {
+      "slide_type": "content",
+      "title": "（需要引用经典观点的一页）",
+      "bullet_points": [
+        "（你的论述）",
+        "（另一条论述）"
+      ],
+      "quote_text": "（这里放引文，注明出处）"
+    },
+    {
+      "slide_type": "section",
+      "title": "二、（第二部分标题）",
+      "subtitle": "（一句话点题）"
+    },
+    {
+      "slide_type": "content",
+      "title": "（本页标题）",
+      "bullet_points": [
+        "（要点一）",
+        "（要点二）",
+        "（要点三）"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "三、（第三部分标题）",
+      "subtitle": "（一句话点题）"
+    },
+    {
+      "slide_type": "content",
+      "title": "（本页标题）",
+      "bullet_points": [
+        "（要点一）",
+        "（要点二）",
+        "（要点三）"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "结论",
+      "bullet_points": [
+        "（结论一：回应开头的问题）",
+        "（结论二：最重要的发现）",
+        "（结论三：局限与展望）"
+      ]
+    },
+    {
+      "slide_type": "reference",
+      "title": "参考文献",
+      "bullet_points": [
+        "[1] （作者. 文献题目[M/J]. 期刊或出版社, 年份.）",
+        "[2] （作者. 文献题目[M/J]. 期刊或出版社, 年份.）",
+        "[3] （作者. 文献题目[M/J]. 期刊或出版社, 年份.）"
+      ]
+    },
+    {
+      "slide_type": "thank",
+      "title": "感谢聆听",
+      "subtitle": "欢迎交流指正"
+    }
+  ]
+}

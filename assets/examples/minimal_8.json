@@ -1,0 +1,85 @@
+{
+  "meta": {
+    "title": "数字政府建设的制度逻辑",
+    "presenter": "张明",
+    "institution": "某大学公共管理学院",
+    "date": "2026年10月"
+  },
+  "slides": [
+    {
+      "slide_type": "title",
+      "title": "数字政府建设的制度逻辑",
+      "subtitle": "基于三省六市的政策实践考察",
+      "image_keywords": ["government building", "digital city"]
+    },
+    {
+      "slide_type": "content",
+      "title": "目录",
+      "bullet_points": [
+        "一、研究背景与问题提出",
+        "二、分析框架与研究方法",
+        "三、实证发现",
+        "四、结论与讨论"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "一、研究背景与问题提出",
+      "subtitle": "为什么数字政府是一个制度问题",
+      "image_keywords": ["research background", "policy document"]
+    },
+    {
+      "slide_type": "content",
+      "title": "问题提出：技术上线，制度滞后",
+      "bullet_points": [
+        "数字平台在全国快速铺开，但服务效能差异显著",
+        "同样的技术架构，在不同省份产出迥异的治理效果",
+        "既有研究多聚焦技术采纳，忽视了制度条件的调节作用",
+        "核心问题：什么样的制度安排让数字政府真正运转？"
+      ],
+      "quote_text": "技术可以购买，制度无法采购。",
+      "image_keywords": ["digital government service", "citizen service center"]
+    },
+    {
+      "slide_type": "section",
+      "title": "二、分析框架与研究方法",
+      "subtitle": "制度能力的三维测量",
+      "image_keywords": ["research framework", "methodology"]
+    },
+    {
+      "slide_type": "data",
+      "title": "制度能力的三维构成",
+      "bullet_points": [
+        "数据整合能力决定跨部门协同的上限",
+        "流程再造能力影响公众端的实际体验",
+        "组织保障能力是前两项可持续的前提"
+      ],
+      "table_data": {
+        "headers": ["维度", "权重"],
+        "rows": [
+          ["数据整合能力", "45"],
+          ["流程再造能力", "35"],
+          ["组织保障能力", "20"]
+        ]
+      },
+      "chart_type": "pie",
+      "image_keywords": ["data integration", "organizational chart"]
+    },
+    {
+      "slide_type": "content",
+      "title": "结论与讨论",
+      "bullet_points": [
+        "数字政府效能取决于制度能力而非技术投入",
+        "数据整合是三者中最关键也最薄弱的一环",
+        "政策含义：先理顺权责，再上系统",
+        "局限：样本偏东中部，西部案例待补充"
+      ],
+      "image_keywords": ["conclusion", "policy discussion"]
+    },
+    {
+      "slide_type": "thank",
+      "title": "感谢聆听",
+      "subtitle": "欢迎批评指正"
+    }
+  ]
+}

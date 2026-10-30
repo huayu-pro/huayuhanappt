@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "title": "（填论文标题）",
+    "presenter": "（填汇报人）",
+    "institution": "（填院校 / 专业）",
+    "date": "（填分享日期）",
+    "template": "journal_club",
+    "note": "期刊分享（Journal Club）模板。适合组会分享一篇具体论文。重点改「论文概览」与「方法与结果」页。推荐 12-18 页。"
+  },
+  "slides": [
+    {
+      "slide_type": "title",
+      "title": "（填论文完整标题）",
+      "subtitle": "（填作者与期刊年份）"
+    },
+    {
+      "slide_type": "content",
+      "title": "分享提纲",
+      "bullet_points": [
+        "一、论文概览",
+        "二、研究问题与贡献",
+        "三、研究设计",
+        "四、主要发现",
+        "五、批评与讨论"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "一、论文概览",
+      "subtitle": "这篇论文做了什么"
+    },
+    {
+      "slide_type": "content",
+      "title": "基本信息",
+      "bullet_points": [
+        "（作者与研究机构）",
+        "（期刊、年份与卷期）",
+        "（学科领域与研究范式）",
+        "（被引情况或学术影响）"
+      ],
+      "image_keywords": ["academic journal", "research paper"]
+    },
+    {
+      "slide_type": "content",
+      "title": "一句话概括",
+      "bullet_points": [
+        "（作者试图回答的核心问题）",
+        "（他们的核心答案）",
+        "（为什么这个问题重要）",
+        "（为什么这个答案有意思）"
+      ],
+      "quote_text": "（引用论文摘要或引言中的关键句）"
+    },
+    {
+      "slide_type": "section",
+      "title": "二、研究问题与贡献",
+      "subtitle": "问题意识与创新点"
+    },
+    {
+      "slide_type": "content",
+      "title": "研究问题",
+      "bullet_points": [
+        "（问题一的精确表述）",
+        "（问题二的精确表述）",
+        "（与既有研究的对话点）",
+        "（作者设定的边界条件）"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "主要贡献",
+      "bullet_points": [
+        "（理论贡献：修正或拓展了什么）",
+        "（方法贡献：识别策略或数据）",
+        "（实证贡献：新事实或新证据）",
+        "（作者自述的贡献与实际贡献是否一致）"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "三、研究设计",
+      "subtitle": "数据、识别与策略"
+    },
+    {
+      "slide_type": "content",
+      "title": "数据与样本",
+      "bullet_points": [
+        "（数据来源与覆盖范围）",
+        "（样本量与时间跨度）",
+        "（关键变量的测量方式）",
+        "（数据的主要局限）"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "识别策略",
+      "bullet_points": [
+        "（因果识别的核心设计）",
+        "（作者如何解决内生性）",
+        "（关键假设及其可信度）",
+        "（安慰剂检验或稳健性做法）"
+      ],
+      "code_block": "（可选：核心模型或识别方程）\nY_it = α + β·D_it + γX_it + μ_i + λ_t + ε_it"
+    },
+    {
+      "slide_type": "section",
+      "title": "四、主要发现",
+      "subtitle": "结果与解释"
+    },
+    {
+      "slide_type": "data",
+      "title": "核心结果",
+      "bullet_points": [
+        "（主效应的方向与量级）",
+        "（结果的经济或实践含义）",
+        "（异质性分析的主要发现）"
+      ],
+      "table_data": {
+        "headers": ["组别", "效应量", "标准误"],
+        "rows": [
+          ["（全样本）", "（数值）", "（数值）"],
+          ["（子样本一）", "（数值）", "（数值）"],
+          ["（子样本二）", "（数值）", "（数值）"]
+        ]
+      },
+      "chart_type": "bar"
+    },
+    {
+      "slide_type": "content",
+      "title": "机制解释",
+      "bullet_points": [
+        "（作者提出的作用机制一）",
+        "（作用机制二）",
+        "（机制检验的证据强度）",
+        "（是否有替代解释未被排除）"
+      ]
+    },
+    {
+      "slide_type": "section",
+      "title": "五、批评与讨论",
+      "subtitle": "我们的判断与延伸"
+    },
+    {
+      "slide_type": "content",
+      "title": "可质疑之处",
+      "bullet_points": [
+        "（识别策略的潜在漏洞）",
+        "（测量或数据的问题）",
+        "（外部效度：结论能推广到哪）",
+        "（作者未充分讨论的反驳）"
+      ]
+    },
+    {
+      "slide_type": "content",
+      "title": "延伸思考",
+      "bullet_points": [
+        "（可以进一步追问的问题）",
+        "（与我们自己研究的连接点）",
+        "（可借鉴的方法或思路）",
+        "（值得追踪的后续文献）"
+      ]
+    },
+    {
+      "slide_type": "thank",
+      "title": "谢谢大家",
+      "subtitle": "欢迎讨论与质疑"
+    }
+  ]
+}

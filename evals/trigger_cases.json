@@ -1,0 +1,134 @@
+{
+  "recommended_threshold": 0.34,
+  "description_required_concepts": [
+    "ppt_action",
+    "academic_scene",
+    "output_form"
+  ],
+  "positive_concepts": {
+    "ppt_action": [
+      "做PPT", "做个PPT", "做一份PPT", "生成PPT", "生成幻灯片",
+      "自动PPT", "PPT制作", "做幻灯片", "帮我做", "生成一份",
+      "make ppt", "generate ppt", "create a presentation", "slides"
+    ],
+    "academic_scene": [
+      "学术汇报", "课程汇报", "开题报告", "毕业答辩", "课题汇报",
+      "期刊分享", "课堂展示", "组会", "论文汇报", "答辩PPT",
+      "academic presentation", "thesis defense", "journal club"
+    ],
+    "output_form": [
+      "pptx", "幻灯片", "PPT文件", "排版", "配图", "自动图表",
+      "python-pptx", "presentation file", "slides"
+    ],
+    "content_source": [
+      "这篇论文", "这篇报告", "这段文字", "文稿", "讲稿", "文本",
+      "根据这篇", "基于这份", "我写了", "论文正文",
+      "this paper", "this text"
+    ]
+  },
+  "negative_patterns": [
+    "只要翻译",
+    "翻译一下",
+    "只要总结",
+    "总结一下",
+    "普通文档",
+    "写个脚本就好",
+    "不要做成技能",
+    "excel",
+    "表格数据清洗"
+  ],
+  "should_trigger": [
+    {
+      "text": "帮我把这篇《数字政府建设的制度逻辑》论文做成学术汇报PPT，要能自动配图",
+      "family": "cn_paper_to_ppt"
+    },
+    {
+      "text": "帮我做一个毕业答辩的PPT，主题是平台经济中的劳动形态",
+      "family": "cn_defense_ppt"
+    },
+    {
+      "text": "生成一份开题报告的幻灯片，要带自动图表",
+      "family": "cn_proposal_with_chart"
+    },
+    {
+      "text": "把这份课题汇报材料排成pptx，25页左右",
+      "family": "cn_project_report"
+    },
+    {
+      "text": "我要做期刊分享的PPT幻灯片，讲一篇关于算法管理的论文",
+      "family": "cn_journal_club"
+    },
+    {
+      "text": "根据这段讲稿自动生成幻灯片，最好能配上图",
+      "family": "cn_script_to_slides"
+    },
+    {
+      "text": "上课要展示，帮我做个课堂展示的PPT",
+      "family": "cn_class_presentation"
+    },
+    {
+      "text": "用 python-pptx 把我的研究报告做成学术汇报PPT，莫兰迪配色",
+      "family": "cn_lib_and_theme"
+    },
+    {
+      "text": "Create an academic presentation from this paper, with charts and images.",
+      "family": "en_paper_to_ppt"
+    },
+    {
+      "text": "Generate a thesis defense PPTX with automatic charts from my report.",
+      "family": "en_defense_pptx"
+    }
+  ],
+  "should_not_trigger": [
+    {
+      "text": "把这篇文章翻译成英文",
+      "family": "translate_only"
+    },
+    {
+      "text": "总结一下这个 PDF 的内容",
+      "family": "summary_only"
+    },
+    {
+      "text": "帮我写个 Python 脚本清洗 CSV 数据",
+      "family": "script_not_ppt"
+    },
+    {
+      "text": "给我讲讲什么是 Agent Skills",
+      "family": "explain_only"
+    },
+    {
+      "text": "把这个普通文档转成 Excel",
+      "family": "other_format"
+    },
+    {
+      "text": "用 matplotlib 画一个折线图",
+      "family": "chart_not_ppt"
+    }
+  ],
+  "near_neighbor": [
+    {
+      "text": "推荐一个现成好用的 PPT 模板网站",
+      "family": "find_template_only"
+    },
+    {
+      "text": "帮我看看这个 PPT 的第 3 页排版有什么问题",
+      "family": "review_existing_ppt"
+    },
+    {
+      "text": "把这段文字压缩成三句话",
+      "family": "compress_not_ppt"
+    },
+    {
+      "text": "讲解一下答辩时怎么控制语速",
+      "family": "advice_not_ppt"
+    },
+    {
+      "text": "评估一下这段代码的时间复杂度",
+      "family": "eval_code_not_ppt"
+    },
+    {
+      "text": "帮我修改这份 Word 文档的格式",
+      "family": "docx_edit_not_ppt"
+    }
+  ]
+}
